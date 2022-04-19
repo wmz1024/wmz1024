@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Wmz1024
+我是一个目前在读小学五年级的一个小学生 是一个小小白
+## 目前在经营的项目
+[Hexo博客](https://blog.w03.cc)
+[Typecho博客分站](https://tc.w03.cc)
+[个人主页](https://w03.cc)
 
 <!--
 **wmz1024/wmz1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
