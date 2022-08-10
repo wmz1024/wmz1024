@@ -1,7 +1,7 @@
 name: 最新博文更新
 on:
   schedule: 
-    - cron: '0 0 0 ? * ? ' 
+    - cron: '1 1 * * *' 
   workflow_dispatch: 
 
 jobs:
