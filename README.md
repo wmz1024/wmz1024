@@ -37,6 +37,8 @@ heavengov.top - 天堂国
 - [如何使用railway+vercel搭建typecho](http://blog.w03.cc/p/2022/f96e98b0.html)
 <!-- BLOG-POST-LIST:END -->
 
+基于 Github Action
+
 ## Q&A
 
 为什么参加GitHub的时间只有一年
