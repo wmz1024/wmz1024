@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Wmz1024
+# Hi there 👋 I'm Wmz1024 (:octocat:)
 我是一个目前在读小学五年级的一个小学生 是一个小小白
 ## 目前在经营的项目
 [Hexo博客](https://blog.w03.cc)
@@ -9,9 +9,9 @@
 
 | ![Metrics](https://metrics.lecoq.io/wmz1024?template=classic&config.timezone=Asia%2FShanghai) | ![Wmz1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmz1024) |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| ![Wmz1024's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmz1024&layout=compact&hide_border=true&langs_count=10) |                       本人代码超垃圾🤦 ![](https://visitor-badge.glitch.me/badge?page_id=wmz1024)[![telegram](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAuOSIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDgwOSAyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0idGVsZWdyYW0iPgogIDx0aXRsZT50ZWxlZ3JhbTwvdGl0bGU+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJhIiB4Mj0iMCIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLW9wYWNpdHk9Ii4xIiBzdG9wLWNvbG9yPSIjRUVFIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iLjEiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDxtYXNrIGlkPSJtIj48cmVjdCB3aWR0aD0iODA5IiBoZWlnaHQ9IjIwMCIgcng9IjMwIiBmaWxsPSIjRkZGIi8+PC9tYXNrPgogIDxnIG1hc2s9InVybCgjbSkiPgogICAgPHJlY3Qgd2lkdGg9IjIxMiIgaGVpZ2h0PSIyMDAiIGZpbGw9IiM1NTUiLz4KICAgIDxyZWN0IHdpZHRoPSI1OTciIGhlaWdodD0iMjAwIiBmaWxsPSIjMDhDIiB4PSIyMTIiLz4KICAgIDxyZWN0IHdpZHRoPSI4MDkiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2EpIi8+CiAgPC9nPgogIDxnIGFyaWEtaGlkZGVuPSJ0cnVlIiBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTEwIj4KICAgIDx0ZXh0IHg9IjE3MiIgeT0iMTQ4IiB0ZXh0TGVuZ3RoPSIwIiBmaWxsPSIjMDAwIiBvcGFjaXR5PSIwLjI1Ij48L3RleHQ+CiAgICA8dGV4dCB4PSIxNjIiIHk9IjEzOCIgdGV4dExlbmd0aD0iMCI+PC90ZXh0PgogICAgPHRleHQgeD0iMjY3IiB5PSIxNDgiIHRleHRMZW5ndGg9IjQ5NyIgZmlsbD0iIzAwMCIgb3BhY2l0eT0iMC4yNSI+dGVsZWdyYW08L3RleHQ+CiAgICA8dGV4dCB4PSIyNTciIHk9IjEzOCIgdGV4dExlbmd0aD0iNDk3Ij50ZWxlZ3JhbTwvdGV4dD4KICA8L2c+CiAgPGltYWdlIHg9IjQwIiB5PSIzNSIgd2lkdGg9IjEzMCIgaGVpZ2h0PSIxMzAiIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5QjRiV3h1Y3owaWFIUjBjRG92TDNkM2R5NTNNeTV2Y21jdk1qQXdNQzl6ZG1jaUlIWnBaWGRDYjNnOUlqQWdNQ0F5TkNBeU5pSWdabWxzYkMxeWRXeGxQU0psZG1WdWIyUmtJajQ4Y0dGMGFDQm1hV3hzUFNJalptWm1JaUJrUFNKTk1UZ3VNemcwSURJeUxqYzNPV0V4TGpFNUlERXVNVGtnTUNBd01ERXVNVEEzTGpFME5TQXhMakUySURFdU1UWWdNQ0F3TUM0M01qUXRMamcwUXpJeExqQTROQ0F4T0NBeU15NHhPVElnTnk0Mk5qTWdNak11T1RneklETXVPVFE0WVM0M09DNDNPQ0F3SURBd0xTNHlOaTB1TnpVNExqZ3VPQ0F3SURBd0xTNDNPVGN0TGpFMFF6RTRMamN6TXlBMExqWXdNaUExTGpneUlEa3VORFEzTGpVME1pQXhNUzQwWVM0NE1qY3VPREkzSURBZ01EQXRMalUwTWk0M09UbGpMakF4TWk0ek5UUXVNalV1TmpZeExqVTVNeTQzTmpRZ01pNHpOamN1TnpBNElEVXVORGMwSURFdU5qa3pJRFV1TkRjMElERXVOamt6Y3pFdU5EVXlJRFF1TXpnMUlESXVNakE1SURZdU5qRTFZeTR3T1RVdU1qZ3VNekUwTGpVdU5qQXpMalUzTm1FdU9EWTJMamcyTmlBd0lEQXdMamd4TVMwdU1qQTNiRE11TURrMkxUSXVPVEl6Y3pNdU5UY3lJREl1TmpFNUlEVXVOVGs0SURRdU1EWXllbTB0TVRFdU1ERXRPQzQyTnpkc01TNDJOemtnTlM0MU16Z3VNemN6TFRNdU5UQTNJREV3TGpFNE5TMDVMakU0Tm1FdU1qYzNMakkzTnlBd0lEQXdMakF6TXkwdU16YzNMakk0TkM0eU9EUWdNQ0F3TUMwdU16YzJMUzR3TmpSTU55NHpOelFnTVRRdU1UQXllaUl2UGp3dmMzWm5QZ289Ii8+Cjwvc3ZnPg==)](https://t.me/wmz1024)                       |
+| ![Wmz1024's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wmz1024&layout=compact&hide_border=true&langs_count=10) | 本人代码超垃圾🤦 ![](https://visitor-badge.glitch.me/badge?page_id=wmz1024)[![telegram](https://u1.877771.xyz/wfile/images/%E4%B8%8B%E8%BD%BD.svg)](https://t.me/wlogchatbot) |
 
 
-
-
-
+## 最新博文！
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
