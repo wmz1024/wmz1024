@@ -36,3 +36,9 @@ heavengov.top - 天堂国
 - [口罩选购指南](http://blog.w03.cc/p/2022/71e2d223.html)
 - [如何使用railway+vercel搭建typecho](http://blog.w03.cc/p/2022/f96e98b0.html)
 <!-- BLOG-POST-LIST:END -->
+
+## Q&A
+
+为什么参加GitHub的时间只有一年
+
+因为这是第二个号 上一个号不知道为何被flag了 只能从头来 当时什么博客项目都无了
