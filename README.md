@@ -30,4 +30,9 @@ heavengov.top - 天堂国
 
 ## 最新博文！
 <!-- BLOG-POST-LIST:START -->
+- [麦当劳薅羊毛教程](http://blog.w03.cc/p/2022/98810489.html)
+- [新出炉！短链服务！](http://blog.w03.cc/p/2022/4e8a11bc.html)
+- [各种刁钻的重装，安装，更新系统的方式](http://blog.w03.cc/p/2022/5fd97686.html)
+- [口罩选购指南](http://blog.w03.cc/p/2022/71e2d223.html)
+- [如何使用railway+vercel搭建typecho](http://blog.w03.cc/p/2022/f96e98b0.html)
 <!-- BLOG-POST-LIST:END -->
