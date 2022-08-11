@@ -7,6 +7,16 @@
 <a href="https://i.w03.cc">起始页</a>
 <a href="https://w03.cc">个人主页</a>
 
+## 正在使用的语言 （很多项目已经设置为Private 所以看不到）
+
+HTML + JS + CSS
+
+Python
+
+Vue
+
+PHP
+
 ## 手里的米
 
 877771.xyz - 当时看便宜买的 阿里云 6-9位数字.xyz 3.9元首年 6元次年
@@ -38,6 +48,10 @@ heavengov.top - 天堂国
 <!-- BLOG-POST-LIST:END -->
 
 基于 Github Action
+
+![宝宝心里苦](https://user-images.githubusercontent.com/82153828/184063688-75d0a0f4-534b-4f6f-923a-6eef381d6d80.gif)
+
+不要再催我更新博客了 宝宝心里苦!(Doge)
 
 ## Q&A
 
