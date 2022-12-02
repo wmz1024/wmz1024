@@ -40,11 +40,11 @@ heavengov.top - 天堂国
 
 ## 最新博文！
 <!-- BLOG-POST-LIST:START -->
+- [使用Picgo并魔改Picgo-plugin-rclone插件实现OneDrive（Sharepoint）+OneManager图床功能](http://blog.w03.cc/p/2022/4558e337.html)
 - [Mac软件分享](http://blog.w03.cc/p/2022/901379b0.html)
 - [记录一次CM311-1a-YST刷机 armbian](http://blog.w03.cc/p/2022/39c910e.html)
 - [在Butterfly主题的Hexo博客的侧边栏加入文章的Qrcode](http://blog.w03.cc/p/2022/ad188120.html)
 - [记armbian机器使用](http://blog.w03.cc/p/2022/1d8f7a88.html)
-- [耗时一个月制作的一个起始页！！！](http://blog.w03.cc/p/2022/14b5460a.html)
 <!-- BLOG-POST-LIST:END -->
 
 基于 Github Action
