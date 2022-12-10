@@ -40,11 +40,11 @@ heavengov.top - 天堂国
 
 ## 最新博文！
 <!-- BLOG-POST-LIST:START -->
+- [蓝易云商家机器主打稳定建站服务器！29元/月1核/1G内存/10Mbps/香港CN2服务器、香港大带宽服务器、香港服务器推荐](http://blog.w03.cc/p/2022/9bf974bc.html)
+- [npm自动改版本号+博客静态源代码自动上传](http://blog.w03.cc/p/2022/f45df334.html)
 - [Vercel Serverless 蓝奏云直链提取](http://blog.w03.cc/p/2022/22a81886.html)
 - [使用Picgo并魔改Picgo-plugin-rclone插件实现OneDrive（Sharepoint）+OneManager图床功能](http://blog.w03.cc/p/2022/4558e337.html)
 - [Mac软件分享](http://blog.w03.cc/p/2022/901379b0.html)
-- [记录一次CM311-1a-YST刷机 armbian](http://blog.w03.cc/p/2022/39c910e.html)
-- [在Butterfly主题的Hexo博客的侧边栏加入文章的Qrcode](http://blog.w03.cc/p/2022/ad188120.html)
 <!-- BLOG-POST-LIST:END -->
 
 基于 Github Action
