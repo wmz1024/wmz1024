@@ -3,7 +3,7 @@
 ## 目前在经营的项目
 <img align='right' src="https://me.w03.cc" width="230">
 <a href="https://blog.w03.cc">Hexo博客</a>
-<a href="https://tc.w03.cc">Typecho博客分站</a>
+<a href="https://tc.w03.cc">Typecho博客分站 （重新搭建ing）</a>
 <a href="https://i.w03.cc">起始页</a>
 <a href="https://w03.cc">个人主页</a>
 
@@ -25,9 +25,13 @@ w03.cc - 我一开始的网名叫王三岁 就买了这个
 
 otaku.homes - 不用解释了吧ヾ(≧▽≦*)o
 
+萌.space - 不用解释了吧ヾ(≧▽≦*)o
+
+wmza.top - 老域名 也不知当时为何买它
+
 wmza.cn - 老域名 也不知当时为何买它
 
-heavengov.top - 天堂国
+heavengov.top - 天堂国 （当时还是因为心血来潮要做一个
 
 剩下的不公开哩
 
@@ -58,3 +62,7 @@ heavengov.top - 天堂国
 为什么参加GitHub的时间只有一年
 
 因为这是第二个号 上一个号不知道为何被flag了 只能从头来 当时什么博客项目都无了
+
+## 联系到我？
+
+[telegram](https://t.me/wmz1024) [EmailA](wmzwsa@gmail.com) [EmailB](i@wmza.cn)
