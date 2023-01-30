@@ -65,4 +65,4 @@ heavengov.top - 天堂国 （当时还是因为心血来潮要做一个
 
 ## 联系到我？
 
-[telegram](https://t.me/wmz1024) [EmailA](wmzwsa@gmail.com) [EmailB](i@wmza.cn)
+[telegram](https://t.me/wmz1024) [EmailA](mailto:wmzwsa@gmail.com) [EmailB](mailto:i@wmza.cn)
