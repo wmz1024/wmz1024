@@ -48,11 +48,11 @@ moemoe.pro - Moe！
 
 ## 最新博文！
 <!-- BLOG-POST-LIST:START -->
+- [从零搭建一个博客你可能要考虑的东西](http://blog.w03.cc/p/2023/f64bb42d.html)
 - [一篇日记 230207 （and... 22年总结???）](http://blog.w03.cc/p/2023/ed345dae.html)
 - [Github Action 和 Qexo 搭建](http://blog.w03.cc/p/2023/1b38d721.html)
 - [小阳人历险记](http://blog.w03.cc/p/2023/1e3dd210.html)
 - [免费Jsdelivr反代CDN新鲜出炉~ （使用文档）](http://blog.w03.cc/p/2022/a7484b3f.html)
-- [蓝易云商家机器主打稳定建站服务器！29元/月1核/1G内存/10Mbps/香港CN2服务器、香港大带宽服务器、香港服务器推荐](http://blog.w03.cc/p/2022/9bf974bc.html)
 <!-- BLOG-POST-LIST:END -->
 
 基于 Github Action
