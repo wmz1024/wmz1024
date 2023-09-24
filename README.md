@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Wmz1024 (:octocat:)
+230901 - 上初中了 啊吧啊吧
 我是一个目前在读小学五年级的一个小学生 是一个小小白
 ## 目前在经营的项目
 <img align='right' src="https://me.w03.cc" width="230">
