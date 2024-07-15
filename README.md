@@ -2,11 +2,10 @@
 230901 - 上初中了 啊吧啊吧
 我是一个目前在读小学五年级的一个小学生 是一个小小白
 ## 目前在经营的项目
-<img align='right' src="https://me.w03.cc" width="230">
-<a href="https://blog.w03.cc">Hexo博客</a>
-<a href="https://tc.w03.cc">Typecho博客分站 （重新搭建ing）</a>
-<a href="https://i.w03.cc">起始页</a>
-<a href="https://w03.cc">个人主页</a>
+<img align='right' src="https://me.wmza.cn" width="230">
+<a href="https://blog.wmza.cn">Hexo博客</a>
+<a href="https://i.wmza.cn">起始页</a>
+<a href="https://wmz1024.com">个人主页</a>
 
 ## 正在使用的语言 （很多项目已经设置为Private 所以看不到）
 
@@ -22,7 +21,7 @@ PHP
 
 877771.xyz - 当时看便宜买的 阿里云 6-9位数字.xyz 3.9元首年 6元次年
 
-w03.cc - 我一开始的网名叫王三岁 就买了这个
+wmza.cn - 我一开始的网名叫王三岁 就买了这个
 
 otaku.homes - 不用解释了吧ヾ(≧▽≦*)o
 
@@ -49,11 +48,11 @@ moemoe.pro - Moe！
 
 ## 最新博文！
 <!-- BLOG-POST-LIST:START -->
-- [从零搭建一个博客你可能要考虑的东西](http://blog.w03.cc/p/2023/f64bb42d.html)
-- [一篇日记 230207 （and... 22年总结???）](http://blog.w03.cc/p/2023/ed345dae.html)
-- [Github Action 和 Qexo 搭建](http://blog.w03.cc/p/2023/1b38d721.html)
-- [小阳人历险记](http://blog.w03.cc/p/2023/1e3dd210.html)
-- [免费Jsdelivr反代CDN新鲜出炉~ （使用文档）](http://blog.w03.cc/p/2022/a7484b3f.html)
+- [从零搭建一个博客你可能要考虑的东西](http://blog.wmza.cn/p/2023/f64bb42d.html)
+- [一篇日记 230207 （and... 22年总结???）](http://blog.wmza.cn/p/2023/ed345dae.html)
+- [Github Action 和 Qexo 搭建](http://blog.wmza.cn/p/2023/1b38d721.html)
+- [小阳人历险记](http://blog.wmza.cn/p/2023/1e3dd210.html)
+- [免费Jsdelivr反代CDN新鲜出炉~ （使用文档）](http://blog.wmza.cn/p/2022/a7484b3f.html)
 <!-- BLOG-POST-LIST:END -->
 
 基于 Github Action
