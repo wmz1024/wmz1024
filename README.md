@@ -1,5 +1,5 @@
-# Hi there 👋 I'm Wmz1024 (:octocat:)
+# Hi there 👋 I'm m.z. Wang
 
-Hello/你好/Bonjour/Ciao/Hola/こんにちは/안녕하세요/Salam sejahtera ！
+Hello/您好/Bonjour/Ciao/Hola/こんにちは/안녕하세요/Salam sejahtera ！
 
-More Info -> [wmz1024.com](https://www.wmz1024.com/?ref=github)
+More Info -> [Wmz1024.com](https://www.wmz1024.com/?ref=github)
